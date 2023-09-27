@@ -1,7 +1,7 @@
 # Exploratory-Data-Analysis-and-Prediction-of-India-s-Air-Quality-Index-
 Exploratory-Data-Analysis-and-Prediction-of-India-s-Air-Quality-Index
 
-In this paper, mExamining and protecting air quality has become one of the most essential
+In this project,Examining and protecting air quality has become one of the most essential
 activities for the government in many industrial and urban areas today. The meteorological and 
 traffic factors, burning of fossil fuels, and industrial parameters play significant roles in
 air pollution.With this increasing air pollution,We Are in need of implementing models which
